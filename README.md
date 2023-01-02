@@ -1,1 +1,1 @@
-"# C-Tetris" 
+# Every time something bad happens, like we lose a day because of weather or an actor gets injured or anything else happens, the schedule has to change. It's the most challenging Tetris puzzle.
